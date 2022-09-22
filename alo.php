@@ -15,6 +15,6 @@
       frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
        allowfullscreen>
     </iframe>
-    <img src="abc.jpg">
+    <img src="img/abc.jpg" alt="Italian Trulli">
 </body>
 </html>
